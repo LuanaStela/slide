@@ -8,13 +8,13 @@ ul {
   list-style: none;
 }
 
-.slide-wrapper {
-  overflow: hidden;
-}
-
 img {
   display: block;
   max-width: 100%;
+}
+
+.slide-wrapper {
+  overflow: hidden;
 }
 
 .slide {
